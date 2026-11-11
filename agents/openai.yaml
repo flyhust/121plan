@@ -1,0 +1,6 @@
+interface:
+  display_name: "121plan · 十二周计划"
+  short_description: "分轮规划十二周目标，最终生成可勾选、记录结果与复盘的交互式 HTML 看板"
+  default_prompt: "使用 $121plan 帮我规划一个新机会，先整理已知信息，再分轮询问关键问题，最后生成可执行、可勾选并保存进度的十二周交互式 HTML 看板。"
+policy:
+  allow_implicit_invocation: true
